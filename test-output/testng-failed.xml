@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="net.PHPTravels.PHPTravels.ToursSearch">
+      <class name="API.Twitter2">
         <methods>
-          <include name="ToursSearch"/>
+          <include name="tweet"/>
         </methods>
-      </class> <!-- net.PHPTravels.PHPTravels.ToursSearch -->
+      </class> <!-- API.Twitter2 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

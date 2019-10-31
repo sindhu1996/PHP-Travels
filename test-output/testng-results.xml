@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="37228" started-at="2019-10-31T10:21:19 IST" finished-at="2019-10-31T10:21:56 IST">
+  <suite name="Default suite" duration-ms="5197" started-at="2019-10-31T13:01:57 IST" finished-at="2019-10-31T13:02:02 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="37228" started-at="2019-10-31T10:21:19 IST" finished-at="2019-10-31T10:21:56 IST">
-      <class name="net.PHPTravels.PHPTravels.HotelBookingSearch">
-        <test-method status="PASS" signature="HotelBookingSearch()[pri:0, instance:net.PHPTravels.PHPTravels.HotelBookingSearch@5b87ed94]" name="HotelBookingSearch" duration-ms="37112" started-at="2019-10-31T10:21:19 IST" finished-at="2019-10-31T10:21:56 IST">
+    <test name="Default test" duration-ms="5197" started-at="2019-10-31T13:01:57 IST" finished-at="2019-10-31T13:02:02 IST">
+      <class name="API.Twitter1">
+        <test-method status="PASS" signature="tweet()[pri:0, instance:API.Twitter1@757942a1]" name="tweet" duration-ms="5118" started-at="2019-10-31T13:01:57 IST" finished-at="2019-10-31T13:02:02 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- HotelBookingSearch -->
-      </class> <!-- net.PHPTravels.PHPTravels.HotelBookingSearch -->
+        </test-method> <!-- tweet -->
+      </class> <!-- API.Twitter1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
